@@ -4,6 +4,9 @@ Survey form
 ## Description
 This is a basic survey form which stores the name and email of persons who are filling the form.
 
+## Start page
+index.php
+
 ## Tech stack
 Tech stack used : PHP,MySQL
 
